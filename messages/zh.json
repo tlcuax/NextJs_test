@@ -18,7 +18,7 @@
     "name": "next-intl example"
   },
   "Navigation": {
-    "home": "Home",
+    "home": "首頁",
     "pathnames": "Pathnames"
   },
   "NotFoundPage": {
