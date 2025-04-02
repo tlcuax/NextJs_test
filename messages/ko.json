@@ -1,7 +1,7 @@
 {
   "Error": {
     "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
-    "title": "Something went wrong!"
+    "title": "문제가 발생함"
   },
   "IndexPage": {
     "description": "This is a basic example that demonstrates the usage of <code>next-intl</code> with the Next.js App Router. Try changing the locale in the top right corner and see how the content changes.",
@@ -11,7 +11,7 @@
     "title": "next-intl example"
   },
   "LocaleSwitcher": {
-    "label": "Change language",
+    "label": "언어 변경",
     "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
   },
   "Manifest": {
