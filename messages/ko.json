@@ -1,0 +1,46 @@
+{
+  "Error": {
+    "description": "超究武神霸斩",
+    "title": "超究武神霸斩"
+  },
+  "IndexPage": {
+    "description": "超究武神霸斩",
+    "title": "超究武神霸斩"
+  },
+  "LocaleLayout": {
+    "title": "超究武神霸斩"
+  },
+  "LocaleSwitcher": {
+    "label": "超究武神霸斩",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
+  },
+  "Manifest": {
+    "name": "超究武神霸斩"
+  },
+  "Navigation": {
+    "home": "超究武神霸斩",
+    "pathnames": "超究武神霸斩"
+  },
+  "NotFoundPage": {
+    "description": "超究武神霸斩",
+    "title": "超究武神霸斩"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "超究武神霸斩",
+        "href": "超究武神霸斩",
+        "title": "超究武神霸斩"
+      },
+      "source": {
+        "description": "超究武神霸斩",
+        "href": "超究武神霸斩",
+        "title": "超究武神霸斩"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>The pathnames are internationalized too.</p><p>If you're using the default language English, you'll see <code>/en/pathnames</code> in the browser address bar on this page.</p><p>If you change the locale to German, the URL is localized accordingly (<code>/de/pfadnamen</code>).</p>",
+    "title": "超究武神霸斩"
+  }
+}

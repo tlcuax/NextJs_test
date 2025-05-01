@@ -1,0 +1,46 @@
+{
+  "Error": {
+    "description": "ately encountered a",
+    "title": "Algo deu errado!"
+  },
+  "IndexPage": {
+    "description": "Este é um exemplo básico que demonstra o uso de <code>next-intl</code> com o Next. Roteador de Aplicativo. Tente alterar a localidade no canto superior direito e veja como o conteúdo é alterado.",
+    "title": "exemplo nextintl"
+  },
+  "LocaleLayout": {
+    "title": "Exemplo next-intl"
+  },
+  "LocaleSwitcher": {
+    "label": "Alterar idioma",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 Português} other {Desconhecido}}"
+  },
+  "Manifest": {
+    "name": "Exemplo next-intl"
+  },
+  "Navigation": {
+    "home": "Inicial",
+    "pathnames": "Pathnames"
+  },
+  "NotFoundPage": {
+    "description": "Por favor, verifique a barra de endereços do navegador ou use a navegação para ir a uma página conhecida.",
+    "title": "Páginas não encontradas"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Aprenda mais sobre a próxima na documentação oficial.",
+        "href": "http://next-intl.dev",
+        "title": "Documentação"
+      },
+      "source": {
+        "description": "Procure o código-fonte deste exemplo no GitHub.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examplees/example-app-router",
+        "title": "Código Fonte"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "U<p>Os \"pathname\" também estão internacionalizados.</p><p>Se você estiver usando o idioma padrão Inglês, verá <code>/en/pathnames</code> na barra de endereços do navegador nesta página.</p><p>Se você mudar a localidade para alemão, a URL é traduzida de forma adequada (<code>/de/pfadnamen</code>).</p>",
+    "title": "Pathnames"
+  }
+}
